@@ -3,4 +3,6 @@
 
 //soy ALEX y me gusta JS
 
-//estamos haciendo conflictos
+//estamos haciendo conflictos soy ALEX
+
+// soy joako y aqui volvi a crear una modificacion para resolver otro conflicto
